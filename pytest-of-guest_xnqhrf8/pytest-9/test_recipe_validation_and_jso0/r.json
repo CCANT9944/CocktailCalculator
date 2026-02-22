@@ -1,0 +1,12 @@
+{
+  "name": "R",
+  "servings": 1,
+  "ingredients": [
+    {
+      "name": "A",
+      "quantity": "1",
+      "unit": "u",
+      "price_per_unit": "0.5"
+    }
+  ]
+}
